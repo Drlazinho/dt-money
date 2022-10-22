@@ -5,6 +5,7 @@
 *   phosphor-icon
 *   Radix-ui
 *   Styled-components
+*   [Json-server](https://github.com/typicode/json-server)
 --------------
 
 ### Anotações

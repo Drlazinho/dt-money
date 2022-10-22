@@ -6,4 +6,6 @@
 *   Radix-ui
 *   Styled-components
 *   [Json-server](https://github.com/typicode/json-server)
+*   React-Hook-Form
+*   Zod
 --------------

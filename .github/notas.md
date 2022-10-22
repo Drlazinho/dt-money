@@ -56,3 +56,18 @@ No primeiro parametro damos o nome do objeto que iremos alterar. No segundo é o
     total: 0
   })
 ~~~~
+
+### Formatando Valores
+
+Formatando valores como data e moeda para Brasil.
+
+**utils/formatters.ts**
+
+~~~~javascript
+export const dateFormatter = new Intl.DateTimeFormat('pt-BR');
+
+export const priceFormatter = new Intl.NumberFormat('pt-BR', {
+  style: 'currency',
+  currency: 'BRL',
+});
+~~~~

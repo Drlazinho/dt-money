@@ -25,20 +25,12 @@
       "createdAt": "2022-10-22T15:54:29.979Z"
     },
     {
-      "description": "Desenvolvimento de aplicativos",
-      "category": "Desenvolvimento",
-      "price": 5000,
-      "type": "income",
-      "createAd": "2022-10-23T18:19:17.170Z",
-      "id": 4
-    },
-    {
       "description": "Deca/Trembo/Dura",
       "category": "Evolução",
       "price": 380,
       "type": "outcome",
-      "createAd": "2022-10-23T20:22:39.628Z",
-      "id": 5
+      "createdAt": "2022-10-23T20:28:19.136Z",
+      "id": 4
     }
   ]
 }

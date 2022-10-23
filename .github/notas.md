@@ -71,3 +71,11 @@ export const priceFormatter = new Intl.NumberFormat('pt-BR', {
   currency: 'BRL',
 });
 ~~~~
+
+### useCallbak, Memo e useMemo
+
+**Callback** - Um hook focado em performance que memoriza funções e as recria caso uma de suas dependências seja alterada.
+
+**memo** usado para fazer comparação profunda entre os hooks e props, muito utilizado para comparar htmls gigantes.
+
+**useMemo** - Um hook focado em performance que memoriza valores computados e reavalia esses valores caso uma de suas dependências seja alterada.

@@ -9,5 +9,6 @@
 *   [React-Hook-Form](https://react-hook-form.com/)
 *   [Zod](https://zod.dev/)
 *   [Axios](https://axios-http.com/ptbr/docs/intro)
-*   
+*   [use-context-selector](https://github.com/dai-shi/use-context-selector)
+
 --------------

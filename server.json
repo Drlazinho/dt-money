@@ -1,36 +1,3 @@
 {
-  "transactions": [
-    {
-      "id": 1,
-      "description": "Desenvolvimento de site",
-      "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2022-10-22T14:54:29.979Z"
-    },
-    {
-      "id": 2,
-      "description": "Academia",
-      "type": "outcome",
-      "category": "Compra",
-      "price": 100,
-      "createdAt": "2022-10-22T15:54:29.979Z"
-    },
-    {
-      "id": 3,
-      "description": "Curso Ignite",
-      "type": "outcome",
-      "category": "Compra",
-      "price": 1740,
-      "createdAt": "2022-10-22T15:54:29.979Z"
-    },
-    {
-      "description": "Deca/Trembo/Dura",
-      "category": "Evolução",
-      "price": 380,
-      "type": "outcome",
-      "createdAt": "2022-10-23T20:28:19.136Z",
-      "id": 4
-    }
-  ]
+  "transactions": []
 }
